@@ -2,5 +2,5 @@
 - [X] checkBox
 
 ```sql
-SELECT 
+SELECT 1 FROM DUAL
 ```
