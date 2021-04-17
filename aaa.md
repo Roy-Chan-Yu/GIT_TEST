@@ -1,4 +1,7 @@
-<<<<<<< HEAD
-aaaa
+
+Reset Training
+ABCDEFGHIJKL
+
 iii
  chkBranchPush
+

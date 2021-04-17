@@ -1,0 +1,2 @@
+reset --mixed
+RESET --MIXED
