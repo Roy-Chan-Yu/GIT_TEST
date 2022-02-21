@@ -1,0 +1,35 @@
+POST http://localhost:65504/api/data HTTP/1.1
+Content-Type: application/json
+Accept: application/json
+Authorization: Bearer e498fe6c956d91e88b014aad98c923e1
+
+[
+   {
+    "name": "洪宗志",
+    "national_id": "M121351234",
+    "date_of_birth": "0850101",
+    "date_of_enlistment": "1011301",
+    "date_of_discharge": "1001114",
+    "administrative_cadre": "0",
+    "on_service_type": "66",
+    "certificate_no": "1100121",
+    "service_type": "0",
+    "report_type": "1",
+    "user_organization": "A00",
+    "service_unit": "聯發科技股份有限公司"
+   }
+   ,{
+    "name": "Royu",
+    "national_id": "A221991234",
+    "date_of_birth": "1011301",
+    "date_of_enlistment": "1001214",
+    "date_of_discharge": "8501114",
+    "administrative_cadre": "0",
+    "on_service_type": "66",
+    "certificate_no": "1100121",
+    "service_type": "0",
+    "report_type": "1",
+    "user_organization": "B00",
+    "service_unit": "聯發科技股份有限公司"
+    }
+]
